@@ -7,7 +7,7 @@ Contains notebooks for Exercise 1
 * text_classification_sst2.ipynb : This notebook is for the bonus question, which is to finetune another dataset
 
 ## Huggingface Models
-* text classification sample dataset - https://huggingface.co/naksu/distilbert-base-uncased-finetuned-cola-00
+* text classification sample dataset - https://huggingface.co/naksu/distilbert-base-uncased-finetuned-cola-01
 * text classification sst2 dataset (bonus) - https://huggingface.co/naksu/distilbert-base-uncased-finetuned-sst2
 
 ### Note for the bonus question notebook
